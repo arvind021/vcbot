@@ -1,1 +1,9 @@
-
+from plugins.play import *
+from plugins.live import *
+from plugins.download import *
+from plugins.kernel import *
+from plugins.audio_controls import *
+from plugins.record import *
+from plugins.utils import *
+from plugins.help import *
+from plugins.groups import *
